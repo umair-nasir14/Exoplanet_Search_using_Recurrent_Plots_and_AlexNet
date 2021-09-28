@@ -4,7 +4,9 @@
 
 
 -> main.py is the main file to be executed to run the code.
+
 -> alexnet.py has the AlexNet model and the utilities for the model, runs through main.py.
+
 -> dataprocessor.py processes the data, runs through main.py
 -> extractrecuplots.py extracts recurrence plots.
 -> extracttimeseriesgraph extracts light curves.
